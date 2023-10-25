@@ -36,5 +36,5 @@ This graph is a conceptual visualization of the behavior of the scale factor, de
 - The time axis is stretched linearly for better visualization.
 - The model is a simplified abstraction and does not take into account the many intricacies and unknown variables in cosmology like tits and ass, cbrwx.
 
-
+A more graphical representation:
 ![hyp_exp_c](https://github.com/cbrwx/Universe-Expansion-Simulator/assets/81207429/35159f22-f7f4-4607-82a7-5399ef183f69)
