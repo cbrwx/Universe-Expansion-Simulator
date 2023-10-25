@@ -41,30 +41,17 @@ A more graphical representation:
 
 Code derived from standing on the shoulders of these sources:
 
-**Before the Big Bang: An Outrageous New Perspective and its Implications for Particle Physics by Roger Penrose**
-
-**Roger Penrose - The Cyclic Universe: A Conversation**
-
-**The Emperor's New Mind by Roger Penrose**
-
-**Cycles of Time: An Extraordinary New View of the Universe by Roger Penrose**
-
-**NASA's Universe 101: Big Bang and Expansion of the Universe**
-
-**Dark Energy, Dark Matter - NASA Science**
-
-**The Distribution of Dark Matter in the Universe - APS Physics**
-
-**Conformal Field Theory - Scholarpedia**
-
-**Conformal Geometry: A Publication of the Max Planck Institute for Mathematics**
-
-**Graviton - CERN**
-
-**The Graviton - Scholarpedia**
-
-**The Heat Death of the Universe - Physics of the Universe**
-
-**The Multiverse - Stanford Encyclopedia of Philosophy**
-
-**Multiverse - MIT Technology Review**
+- Before the Big Bang: An Outrageous New Perspective and its Implications for Particle Physics by Roger Penrose
+- Roger Penrose - The Cyclic Universe: A Conversation
+- The Emperor's New Mind by Roger Penrose
+- Cycles of Time: An Extraordinary New View of the Universe by Roger Penrose
+- NASA's Universe 101: Big Bang and Expansion of the Universe
+- Dark Energy, Dark Matter - NASA Science
+- The Distribution of Dark Matter in the Universe - APS Physics
+- Conformal Field Theory - Scholarpedia
+- Conformal Geometry: A Publication of the Max Planck Institute for Mathematics
+- Graviton - CERN
+- The Graviton - Scholarpedia
+- The Heat Death of the Universe - Physics of the Universe
+- The Multiverse - Stanford Encyclopedia of Philosophy
+- Multiverse - MIT Technology Review
