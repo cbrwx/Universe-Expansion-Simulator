@@ -38,6 +38,7 @@ This graph is a conceptual visualization of the behavior of the scale factor, de
 
 A more graphical representation:
 ![hyp_exp_c](https://github.com/cbrwx/Universe-Expansion-Simulator/assets/81207429/35159f22-f7f4-4607-82a7-5399ef183f69)
+![4545](https://github.com/cbrwx/Universe-Expansion-Simulator/assets/81207429/b711aa68-553c-4c12-baee-ecfcf831b49e)
 
 Code derived from standing on the shoulders of these sources:
 
@@ -55,3 +56,4 @@ Code derived from standing on the shoulders of these sources:
 - The Heat Death of the Universe - Physics of the Universe
 - The Multiverse - Stanford Encyclopedia of Philosophy
 - Multiverse - MIT Technology Review
+
